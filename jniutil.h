@@ -1,0 +1,6 @@
+#ifndef JNIUTIL_JNIUTIL_H
+#define JNIUTIL_JNIUTIL_H
+
+
+
+#endif //JNIUTIL_JNIUTIL_H
